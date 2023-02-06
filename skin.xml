@@ -4427,26 +4427,6 @@
                 </condition>
               </filterexpression>
             </action>
-            <action>
-              <source>click</source>
-              <type>gotourl</type>
-              <actionvalue>https://vornone.github.io/MCR_KING/</actionvalue>
-              <actiontransitiontime>0</actiontransitiontime>
-              <filterexpression>
-                <condition>
-                  <logictrigger>os</logictrigger>
-                  <logiccomparison>equal</logiccomparison>
-                  <comparevalue>4</comparevalue>
-                  <logicoperator>and</logicoperator>
-                </condition>
-                <condition>
-                  <logictrigger>hastouch</logictrigger>
-                  <logiccomparison>equal</logiccomparison>
-                  <comparevalue>true</comparevalue>
-                  <logicoperator>and</logicoperator>
-                </condition>
-              </filterexpression>
-            </action>
             <logicblock>
               <logicproperty>visible</logicproperty>
               <transitionenabled>0</transitionenabled>
@@ -4612,7 +4592,7 @@
               <source>click</source>
               <type>gotourl</type>
               <actionvalue>https://vornone.github.io/MCR_KING/</actionvalue>
-              <actiontransitiontime>0</actiontransitiontime>
+              <actiontransitiontime>1653253488</actiontransitiontime>
               <filterexpression>
                 <condition>
                   <logictrigger>os</logictrigger>
