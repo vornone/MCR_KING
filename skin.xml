@@ -4665,8 +4665,8 @@
             <action>
               <source>click</source>
               <type>gotourl</type>
-              <actionvalue>https://vornone.github.io/MCR_PRINCE/</actionvalue>
-              <actiontransitiontime>64</actiontransitiontime>
+              <actionvalue>https://vornone.github.io/MCR_KING/</actionvalue>
+              <actiontransitiontime>173</actiontransitiontime>
               <filterexpression>
                 <condition>
                   <logictrigger>hastouch</logictrigger>
