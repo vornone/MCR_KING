@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node112" apprev="18007" appversion="6.1.10">
+  <panorama hideabout="1" id="node112">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node112/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-90" projection="4" fov="70" tilt="10"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="GF_EXTERIOR_CM001" longitude="" info="" source="" customnodeid="" nodeid="node112" heading="0" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan01" x="1.12198" y="-1.60881" y_floorplan_percent="94.4758" x_floorplan_percent="65.8871"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-71.3" description="" title="GF_EXTERIOR_CM003" skinid="final_interactive" id="Point01" tilt="-1.07" url="{node113}"/>
+      <hotspot target="" pan="-109.66" description="" title="GF_EXTERIOR_CM002" skinid="final_interactive" id="Point02" tilt="-0.67" url="{node149}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node149">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node149/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="MCR_KING_EXTERIOR CM003" title="GF_EXTERIOR_CM002" longitude="" info="" source="" customnodeid="" nodeid="node149" heading="0" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan01" x="1.15494" y="-1.22841" y_floorplan_percent="72.1371" x_floorplan_percent="67.8226"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <polyhotspot target="" description="" title="GF_FRONT_ENTRANCE" id="Poly01" url="{node72}">
+        <polystring>-43.71/12.93|-52.93/14.57|-52.85/-5.36|-43.84/-4.47</polystring>
+      </polyhotspot>
+      <hotspot target="" pan="-48.38" description="" title="GF_FRONT_ENTRANCE" skinid="final_interactive" id="Point01" tilt="5.84" url="{node72}"/>
+      <hotspot target="" pan="-220.03" description="" title="GF_EXTERIOR_CM001" skinid="final_interactive" id="Point02" tilt="-0.42" url="{node112}"/>
+      <hotspot target="2.6/0.2/70.0" pan="-354.7" description="" title="GF_EXTERIOR_CM003" skinid="dark_final interactive" id="Point03" tilt="-12.37" url="{node113}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node113">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node113/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="GF_EXTERIOR_CM003" longitude="" info="" source="" customnodeid="" nodeid="node113" heading="0" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan01" x="0.898132" y="-1.23871" y_floorplan_percent="72.7419" x_floorplan_percent="52.7419"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-232.62" description="" title="GF_EXTERIOR_CM001" skinid="final_interactive" id="Point01" tilt="-3.02" url="{node112}"/>
+      <hotspot target="" pan="-89.93" description="" title="GF_FRONT_ENTRANCE" skinid="final_interactive" id="Point02" tilt="7.65" url="{node72}"/>
+      <hotspot target="-177.9/3.1/70.0" pan="-179.83" description="" title="GF_EXTERIOR_CM002" skinid="final_interactive" id="Point03" tilt="-9.98" url="{node149}"/>
+      <polyhotspot target="" description="" title="GF_FRONT_ENTRANCE" id="Poly01" url="{node72}">
+        <polystring>-82.2/18.1|-97.8/18.1|-97.94/-6.41|-82.35/-6.56</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node129">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node129/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start pan="-90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="GF_COURTYARD_CM001" longitude="" info="" source="" customnodeid="" nodeid="node129" heading="180" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan01" x="0.782089" y="-0.496445" y_floorplan_percent="29.1532" x_floorplan_percent="45.9274"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-246.19" description="" title="GF_KITCHEN_DINNING" skinid="final_interactive" id="Point03" tilt="0.41" url="{node105}"/>
+      <hotspot target="" pan="-159.6" description="" title="GF_LIVING_ROOM_02" skinid="final_interactive" id="Point04" tilt="-0.52" url="{node154}"/>
+      <hotspot target="" pan="-32.34" description="" title="GF_COURTYARD_CM002" skinid="final_interactive" id="Point01" tilt="-16.71" url="{node153}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node153">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node153/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="MCR_KING_GF COURTYARD CM002" title="GF_COURTYARD_CM002" longitude="" info="" source="" customnodeid="" nodeid="node153" heading="0" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan01" x="0.827408" y="-0.359116" y_floorplan_percent="21.0887" x_floorplan_percent="48.5887"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-94.94" description="" title="GF_LIVING_ROOM_02" skinid="final_interactive" id="Point01" tilt="-0.52" url="{node154}"/>
+      <hotspot target="" pan="-143.38" description="" title="GF_KITCHEN_DINNING" skinid="final_interactive" id="Point02" tilt="-0.69" url="{node105}"/>
+      <hotspot target="" pan="-128.81" description="" title="GF_COURTYARD_CM001" skinid="dark_final interactive" id="Point03" tilt="-24.92" url="{node129}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node72">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node72/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="BEDROOM_CM001" title="GF_FRONT_ENTRANCE" longitude="" info="" source="" customnodeid="" nodeid="node72" heading="0" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan01" x="0.904999" y="-0.981216" y_floorplan_percent="57.621" x_floorplan_percent="53.1452"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-42.12" description="" title="GF_LIVING_ROOM_01" skinid="final_interactive" id="Point01" tilt="-1.14" url="{node106}"/>
+      <hotspot target="" pan="-49.15" description="" title="GF_KITCHEN_DINNING" skinid="final_interactive" id="Point02" tilt="1.07" url="{node105}"/>
+      <hotspot target="" pan="-128.41" description="" title="GF_LIVING_ROOM_03" skinid="final_interactive" id="Point03" tilt="1.56" url="{node107}"/>
+      <hotspot target="" pan="-268.08" description="" title="GF_EXTERIOR_CM003" skinid="final_interactive" id="Point04" tilt="11.03" url="{node113}"/>
+      <polyhotspot target="" description="" title="GF_EXTERIOR_CM003" id="Poly01" url="{node113}">
+        <polystring>-243.73/37|-293.35/37.06|-292.62/-30.22|-244.69/-30.2</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node105">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node105/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="180" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="BATHROOM_CM002" title="GF_KITCHEN_DINNING" longitude="" info="" source="" customnodeid="" nodeid="node105" heading="0" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan01" x="0.509491" y="-0.444946" y_floorplan_percent="26.129" x_floorplan_percent="29.9194"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-139.11" description="" title="GF_COURTYARD_CM001" skinid="final_interactive" id="Point02" tilt="0.01" url="{node129}"/>
+      <hotspot target="" pan="-244.19" description="" title="GF_LIVING_ROOM_02" skinid="dark_final interactive" id="Point01" tilt="0.47" url="{node154}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node106">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node106/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="90" fovmode="0">
+      <start pan="-90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="BATHROOM_CM002" title="GF_LIVING_ROOM_01" longitude="" info="" source="" customnodeid="" nodeid="node106" heading="90" copyright="" datetime="" latitude="" author=""/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="-93.4/-3.3/70.0" pan="-90.75" description="" title="GF_LIVING_ROOM_03" skinid="final_interactive" id="Point01" tilt="-0.98" url="{node107}"/>
+      <hotspot target="" pan="-136.44" description="" title="GF_FRONT_ENTRANCE" skinid="final_interactive" id="Point02" tilt="0.42" url="{node72}"/>
+      <hotspot target="" pan="-331.5" description="" title="GF_KITCHEN_DINNING" skinid="final_interactive" id="Point03" tilt="0.5" url="{node105}"/>
+      <hotspot target="-88.9/1.9/70.0" pan="-51.44" description="" title="GF_COURTYARD_CM001" skinid="final_interactive" id="Point04" tilt="0.09" url="{node129}"/>
+      <hotspot target="179.3/0.4/70.0" pan="-92.16" description="" title="GF_LIVING_ROOM_02" skinid="final_interactive" id="Point05" tilt="-13.55" url="{node154}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node154">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node154/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="-90" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="MCR_KING_GF ENTRANCE CM001" title="GF_LIVING_ROOM_02" longitude="" info="" source="" customnodeid="GROUNDFLOOR" nodeid="node154" heading="0" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan01" x="0.760117" y="-0.76561" y_floorplan_percent="44.9597" x_floorplan_percent="44.6371"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-27.82" description="" title="GF_KITCHEN_DINNING" skinid="final_interactive" id="Point01" tilt="0.15" url="{node105}"/>
+      <hotspot target="" pan="-159.27" description="" title="GF_LIVING_ROOM_03" skinid="final_interactive" id="Point03" tilt="-11.23" url="{node107}"/>
+      <hotspot target="" pan="-86.82" description="" title="GF_COURTYARD_CM002" skinid="final_interactive" id="Point04" tilt="-5.24" url="{node153}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node107">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node107/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-90" fovmode="0">
+      <start pan="90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="BATHROOM_CM002" title="GF_LIVING_ROOM_03" longitude="" info="" source="" customnodeid="" nodeid="node107" heading="-90" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan01" x="1.04576" y="-0.717545" y_floorplan_percent="42.1371" x_floorplan_percent="61.4113"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="93.2/0.9/70.0" pan="-201.19" description="" title="GF_FRONT_ENTRANCE" skinid="final_interactive" id="Point03" tilt="0.43" url="{node72}"/>
+      <hotspot target="-2.5/-1.2/70.0" pan="-245.04" description="" title="GF_LIVING_ROOM_02" skinid="final_interactive" id="Point01" tilt="-10.1" url="{node154}"/>
+      <hotspot target="" pan="-270.97" description="" title="GF_KITCHEN_DINNING" skinid="final_interactive" id="Point02" tilt="-0.23" url="{node105}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node108">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node108/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start pan="90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="BATHROOM_CM002" title="1F_MBEDROOM_01" longitude="" info="" source="" customnodeid="FIRSTFLOOR" nodeid="node108" heading="180" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan02" x="0.571289" y="-0.511551" y_floorplan_percent="30.0403" x_floorplan_percent="33.5484"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-175.35" description="" title="1F_MBEDROOM_02" skinid="final_interactive" id="Point02" tilt="-19.11" url="{node109}"/>
+      <hotspot target="" pan="-167.19" description="" title="1F_MWARDROBE_CM001" skinid="final_interactive" id="Point03" tilt="0.04" url="{node110}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node109">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node109/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="BEDROOM_CM005" title="1F_MBEDROOM_02" longitude="" info="" source="" customnodeid="" nodeid="node109" heading="0" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan02" x="0.573349" y="-0.696259" y_floorplan_percent="40.8871" x_floorplan_percent="33.6694"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-348.22" description="" title="1F_MWARDROBE_CM001" skinid="dark_final interactive" id="Point02" tilt="0.75" url="{node110}"/>
+      <hotspot target="" pan="-183.07" description="" title="1F_MBEDROOM_01" skinid="dark_final interactive" id="Point03" tilt="-14.81" url="{node108}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node110">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node110/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="MCR_KING_MASTERWARDROBE" title="1F_MWARDROBE_CM001" longitude="" info="" source="" customnodeid="" nodeid="node110" heading="0" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan02" x="0.605621" y="-0.98671" y_floorplan_percent="57.9435" x_floorplan_percent="35.5645"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-181.91" description="" title="1F_MBEDROOM_02" skinid="final_interactive" id="Point01" tilt="3.94" url="{node109}"/>
+      <hotspot target="" pan="-144.86" description="" title="1F_MWARDROBE_CM002" skinid="final_interactive" id="Point02" tilt="-0.67" url="{node111}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node111">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node111/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-90" fovmode="0">
+      <start pan="-90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="MCR_KING_MASTERWARDROBE" title="1F_MWARDROBE_CM002" longitude="" info="" source="" customnodeid="" nodeid="node111" heading="-90" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan02" x="0.477905" y="-0.968857" y_floorplan_percent="56.8952" x_floorplan_percent="28.0645"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-344.13" description="" title="1F_MWARDROBE_CM001" skinid="final_interactive" id="Point01" tilt="3.18" url="{node110}"/>
+      <hotspot target="" pan="-329.03" description="" title="1F_MBEDROOM_02" skinid="final_interactive" id="Point02" tilt="3.49" url="{node109}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node118">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node118/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start pan="180" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="1F_BEDROOM2_KING_CM001" longitude="" info="" source="" customnodeid="" nodeid="node118" heading="180" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan02" x="1.12267" y="-0.992203" y_floorplan_percent="58.2661" x_floorplan_percent="65.9274"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="45.33" description="" title="1F_BEDROOM02_BATHROOM" skinid="final_interactive" id="Point01" tilt="6.96" url="{node128}"/>
+      <hotspot target="" pan="-326.02" description="" title="1F_WARDROBE2" skinid="final_interactive" id="Point02" tilt="6.36" url="{node152}"/>
+      <hotspot target="" pan="-82.89" description="" title="1F_BALCONY" skinid="final_interactive" id="Point03" tilt="-5.2" url="{node155}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node155">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node155/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-90" fovmode="0">
+      <start pan="-90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="MCR_KING_1F_FrontBalcony_CM001" title="1F_BALCONY" longitude="" info="" source="" customnodeid="" nodeid="node155" heading="-90" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan02" x="1.07803" y="-1.10275" y_floorplan_percent="64.7581" x_floorplan_percent="63.3065"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-286.62" description="" title="1F_BEDROOM2_KING_CM001" skinid="final_interactive" id="Point01" tilt="-4.12" url="{node118}"/>
+      <hotspot target="" pan="-191.37" description="" title="1F_STUDYROOM_CM001" skinid="final_interactive" id="Point02" tilt="1.91" url="{node122}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node128">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node128/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start pan="-90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="1F_BEDROOM02_BATHROOM" longitude="" info="" source="" customnodeid="" nodeid="node128" heading="180" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan02" x="1.20163" y="-0.850754" y_floorplan_percent="49.9597" x_floorplan_percent="70.5645"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-100.03" description="" title="1F_BEDROOM2_KING_CM001" skinid="final_interactive" id="Point01" tilt="7.63" url="{node118}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node152">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node152/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-90" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="MCR_KING_1F_WARDROBE_CM001" title="1F_WARDROBE2" longitude="" info="" source="" customnodeid="" nodeid="node152" heading="-90" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan02" x="1.20094" y="-0.985336" y_floorplan_percent="57.8629" x_floorplan_percent="70.5242"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-262.19" description="" title="1F_BEDROOM02_BATHROOM" skinid="final_interactive" id="Point01" tilt="3.99" url="{node128}"/>
+      <hotspot target="" pan="-226.57" description="" title="1F_BEDROOM2_KING_CM001" skinid="final_interactive" id="Point02" tilt="3.16" url="{node118}"/>
+      <polyhotspot target="" description="" title="1F_BEDROOM02_BATHROOM" id="Poly01" url="{node128}">
+        <polystring>-255.39/22.09|-269.91/22.76|-269.93/-23.23|-255.15/-22.45</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node123">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node123/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start pan="-90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="1F_SALON_CM001" longitude="" info="" source="" customnodeid="" nodeid="node123" heading="180" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan02" x="1.14876" y="-0.581589" y_floorplan_percent="34.1532" x_floorplan_percent="67.4597"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node127">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node127/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start pan="-90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="1F_SALON_TOILET_CM001" longitude="" info="" source="" customnodeid="" nodeid="node127" heading="180" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan02" x="1.10619" y="-0.482712" y_floorplan_percent="28.3468" x_floorplan_percent="64.9597"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node122">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node122/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="90" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="180" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="1F_STUDYROOM_CM001" longitude="" info="" source="" customnodeid="" nodeid="node122" heading="90" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan02" x="0.915985" y="-0.983963" y_floorplan_percent="57.7823" x_floorplan_percent="53.7903"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-93.14" description="" title="1F_BALCONY" skinid="final_interactive" id="Point01" tilt="3.92" url="{node155}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node114">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node114/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="90" projection="4" fov="70" tilt="-5"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="2F_BEDROOM6_CM001" longitude="" info="" source="" customnodeid="" nodeid="node114" heading="0" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan03" x="0.539017" y="-0.352936" y_floorplan_percent="20.7258" x_floorplan_percent="31.6532"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-130.35" description="" title="2F_BEDROOM6_CM002" skinid="final_interactive" id="Point01" tilt="-2.7" url="{node126}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node126">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node126/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="180" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="2F_BEDROOM6_CM002" longitude="" info="" source="" customnodeid="" nodeid="node126" heading="0" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan03" x="0.592575" y="-0.352249" y_floorplan_percent="20.6855" x_floorplan_percent="34.7984"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-209.22" description="" title="2F_BEDROOM6_CM001" skinid="final_interactive" id="Point01" tilt="-0.73" url="{node114}"/>
+      <hotspot target="" pan="-179.66" description="" title="2F_BATHROOM6_CM001" skinid="final_interactive" id="Point02" tilt="-0.82" url="{node125}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node125">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node125/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="90" fovmode="0">
+      <start pan="-90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="2F_BATHROOM6_CM001" longitude="" info="" source="" customnodeid="" nodeid="node125" heading="90" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan03" x="0.512238" y="-0.472412" y_floorplan_percent="27.7419" x_floorplan_percent="30.0806"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-356.88" description="" title="2F_BEDROOM6_CM002" skinid="final_interactive" id="Point01" tilt="7.75" url="{node126}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node115">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node115/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start pan="-90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="2F_BEDROOM4_CM001" longitude="" info="" source="" customnodeid="" nodeid="node115" heading="180" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan03" x="0.618668" y="-1.0025" y_floorplan_percent="58.871" x_floorplan_percent="36.3306"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-123.48" description="" title="2F_BEDROOM4_CM002" skinid="final_interactive" id="Point01" tilt="-3.28" url="{node134}"/>
+      <hotspot target="" pan="-54.14" description="" title="2F_BEDROOM4_CM002" skinid="final_interactive" id="Point02" tilt="-0.55" url="{node134}"/>
+      <hotspot target="" pan="-131.03" description="" title="2F_BATHROOM4_CM001" skinid="final_interactive" id="Point03" tilt="-3.23" url="{node133}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node134">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node134/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="2F_BEDROOM4_CM002" longitude="" info="" source="" customnodeid="" nodeid="node134" heading="0" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan03" x="0.481339" y="-1.00937" y_floorplan_percent="59.2742" x_floorplan_percent="28.2661"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-20.78" description="" title="2F_BEDROOM4_CM001" skinid="dark_final interactive" id="Point01" tilt="-2.62" url="{node115}"/>
+      <hotspot target="" pan="-168.49" description="" title="2F_BEDROOM4_CM001" skinid="final_interactive" id="Point02" tilt="-1.29" url="{node115}"/>
+      <hotspot target="" pan="-2.86" description="" title="2F_BATHROOM4_CM001" skinid="final_interactive" id="Point03" tilt="-2.52" url="{node133}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node133">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node133/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-90" fovmode="0">
+      <start pan="-90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="2F_BATHROOM4_CM001" longitude="" info="" source="" customnodeid="" nodeid="node133" heading="-90" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan03" x="0.497818" y="-0.871353" y_floorplan_percent="51.1694" x_floorplan_percent="29.2339"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-291.35" description="" title="2F_BEDROOM4_CM001" skinid="final_interactive" id="Point01" tilt="1.03" url="{node115}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node131">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node131/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="90" fovmode="0">
+      <start pan="-90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="2F_BEDROOM5_CM001" longitude="" info="" source="" customnodeid="" nodeid="node131" heading="90" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan03" x="0.509491" y="-0.726471" y_floorplan_percent="42.6613" x_floorplan_percent="29.9194"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-310.78" description="" title="2F_BEDROOM5_CM002" skinid="final_interactive" id="Point01" tilt="7.26" url="{node132}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node132">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node132/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="2F_BEDROOM5_CM002" longitude="" info="" source="" customnodeid="" nodeid="node132" heading="180" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan03" x="0.545197" y="-0.618668" y_floorplan_percent="36.3306" x_floorplan_percent="32.0161"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-355.88" description="" title="2F_BEDROOM5_CM001" skinid="final_interactive" id="Point01" tilt="-4.28" url="{node131}"/>
+      <hotspot target="" pan="-130.35" description="" title="2F_BATHROOM5_CM001" skinid="final_interactive" id="Point02" tilt="5.35" url="{node130}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node130">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node130/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start pan="-90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="2F_BATHROOM5_CM001" longitude="" info="" source="" customnodeid="" nodeid="node130" heading="180" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan03" x="0.453186" y="-0.574036" y_floorplan_percent="33.7097" x_floorplan_percent="26.6129"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+      <hotspot target="" pan="-260.37" description="" title="2F_BEDROOM5_CM002" skinid="final_interactive" id="Point01" tilt="7.48" url="{node132}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node116">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node116/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="2F_GYM_CM001" longitude="" info="" source="" customnodeid="SECONDFLOOR" nodeid="node116" heading="0" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan03" x="0.755997" y="-0.740891" y_floorplan_percent="43.5081" x_floorplan_percent="44.3952"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node117">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node117/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="90" fovmode="0">
+      <start pan="180" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="2F_MOVIE_ROOM_CM001" longitude="" info="" source="" customnodeid="" nodeid="node117" heading="90" copyright="" datetime="" latitude="" author="">
+      <mapcoords mapid="FloorPlan03" x="0.944824" y="-0.732651" y_floorplan_percent="43.0242" x_floorplan_percent="55.4839"/>
+    </userdata>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node135">
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="" longitude="" info="" source="" customnodeid="" nodeid="node135" heading="0" copyright="" datetime="" latitude="" author=""/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node136">
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="" longitude="" info="" source="" customnodeid="" nodeid="node136" heading="0" copyright="" datetime="" latitude="" author=""/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node137">
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="" longitude="" info="" source="" customnodeid="" nodeid="node137" heading="0" copyright="" datetime="" latitude="" author=""/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node138">
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="" longitude="" info="" source="" customnodeid="" nodeid="node138" heading="0" copyright="" datetime="" latitude="" author=""/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node139">
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="" longitude="" info="" source="" customnodeid="" nodeid="node139" heading="0" copyright="" datetime="" latitude="" author=""/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node140">
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="" longitude="" info="" source="" customnodeid="" nodeid="node140" heading="0" copyright="" datetime="" latitude="" author=""/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node141">
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="" longitude="" info="" source="" customnodeid="" nodeid="node141" heading="0" copyright="" datetime="" latitude="" author=""/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node142">
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="" longitude="" info="" source="" customnodeid="" nodeid="node142" heading="0" copyright="" datetime="" latitude="" author=""/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node143">
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="" longitude="" info="" source="" customnodeid="" nodeid="node143" heading="0" copyright="" datetime="" latitude="" author=""/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node144">
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="" longitude="" info="" source="" customnodeid="" nodeid="node144" heading="0" copyright="" datetime="" latitude="" author=""/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node145">
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="" longitude="" info="" source="" customnodeid="" nodeid="node145" heading="0" copyright="" datetime="" latitude="" author=""/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node146">
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="" longitude="" info="" source="" customnodeid="" nodeid="node146" heading="0" copyright="" datetime="" latitude="" author=""/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node119">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node119/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="1F_MASTERBATHROOM_KING_CM001" longitude="" info="" source="" customnodeid="" nodeid="node119" heading="0" copyright="" datetime="" latitude="" author=""/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node120">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node120/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="1F_WARDROBE_KING_CM001" longitude="" info="" source="" customnodeid="" nodeid="node120" heading="0" copyright="" datetime="" latitude="" author=""/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node121">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node121/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="1F_MASTERBEDROOM_CM001" longitude="" info="" source="" customnodeid="" nodeid="node121" heading="0" copyright="" datetime="" latitude="" author=""/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node124">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node124/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="CAM_001" title="1F_WARDROBE_CM001" longitude="" info="" source="" customnodeid="" nodeid="node124" heading="0" copyright="" datetime="" latitude="" author=""/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node150">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node150/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="Desktop" title="" longitude="" info="" source="" customnodeid="" nodeid="node150" heading="0" copyright="" datetime="" latitude="" author=""/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node151">
+    <input levelbiashidpi="1.000" height="1000" levelingpitch="0" width="1000" levelbias="0.400" leveltilesize="510" leveltileurl="tiles/node151/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1">
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" description="" tags="Desktop" title="" longitude="" info="" source="" customnodeid="" nodeid="node151" heading="0" copyright="" datetime="" latitude="" author=""/>
+    <hotspots wordwrap="0" height="20" width="180">
+      <label wordwrap="0" background="0" textalpha="1" borderradius="0" height="20" borderalpha="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" enabled="0" textcolor="0x000000" border="0" backgroundalpha="1"/>
+      <polystyle handcursor="1" borderalpha="1" bordercolor="0xffffff" backgroundcolor="0xffffff" mode="2" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomafteroutfov="20" zoomspeed="1" blendcolor="0x000000" softedge="0" zoomfov="20" enabled="1" blendtime="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomout="0"/>
+    <flyintransition speed="5.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" simulatemass="1" lockedmouse="0" rubberband="0" contextfullscreen="0" hideabout="1" invertcontrol="1" sensitivity="1" lockedkeyboardzoom="0" invertwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" description="" tags="" title="" longitude="" info="" source="" customnodeid="" nodeid="master" heading="0" copyright="" datetime="" latitude="" author=""/>
+  </masternode>
+  <map mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" mapprovider="openstreetmap" title="" mapmaxzoom="18" type="web" id="Map01" mapstyle="streets"/>
+  <map floorplannorth="269" height="2480" title="" width="2480" zoomlevels="1" bgcolor="rgba(255, 255, 255, 1)" transparent="0" type="file" id="FloorPlan01" tileformat="jpg"/>
+  <map floorplannorth="181.67" height="2480" title="" width="2480" zoomlevels="1" bgcolor="rgba(255, 255, 255, 1)" transparent="0" type="file" id="FloorPlan02" tileformat="jpg"/>
+  <map floorplannorth="358.34" height="2480" title="" width="2480" zoomlevels="1" bgcolor="rgba(255, 255, 255, 1)" transparent="0" type="file" id="FloorPlan03" tileformat="jpg"/>
+  <map floorplannorth="0" height="1000" title="" width="6000" zoomlevels="1" bgcolor="rgba(255, 255, 255, 1)" transparent="0" type="file" id="FloorPlan04" tileformat="jpg"/>
+</tour>
