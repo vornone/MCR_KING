@@ -728,6 +728,7 @@
       <polystyle backgroundcolor="0xffffff" borderalpha="1" mode="2" backgroundalpha="0.25098" handcursor="1" bordercolor="0xffffff"/>
       <hotspot pan="-357.55" tilt="-20.12" skinid="2F_TO_1F" description="" id="Point01" title="1F_CORRIDOR" url="{node156}" target=""/>
       <hotspot pan="-277.59" tilt="0.08" skinid="dark_final interactive" description="" id="Point02" title="2F_TERRACE" url="{node160}" target=""/>
+      <hotspot pan="-91.86" tilt="-0.9" skinid="final_interactive" description="" id="Point03" title="2F_CORRIDOR_CAM002" url="{node163}" target=""/>
     </hotspots>
     <media/>
     <transition zoomfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafteroutfov="20" blendcolor="0x000000" blendtime="1" zoomin="0" type="crossdissolve" zoomspeed="1" softedge="0" zoomafterinfov="90"/>
@@ -748,7 +749,7 @@
       <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata info="" source="" tags="MCR_2F CORRIDOR CM002" description="" heading="92" comment="" longitude="" nodeid="node163" title="2F_CORRIDOR_CAM002" author="" latitude="" datetime="" copyright="" customnodeid="">
-      <mapcoords y_floorplan_percent="50.4839" x_floorplan_percent="49.1935" mapid="FloorPlan03" x="0.837708" y="-0.85968"/>
+      <mapcoords y_floorplan_percent="50.5645" x_floorplan_percent="49.1935" mapid="FloorPlan03" x="0.837708" y="-0.861053"/>
     </userdata>
     <hotspots width="180" height="20" wordwrap="0">
       <label backgroundcolor="0xffffff" borderalpha="1" enabled="0" width="180" borderradius="0" textalpha="1" backgroundalpha="1" height="20" wordwrap="0" border="0" bordercolor="0x000000" background="0" textcolor="0x000000"/>
@@ -1104,7 +1105,7 @@
       <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
     <userdata info="" source="" tags="MCR_KING_F2_TERRACE CM001" description="" heading="0" comment="" longitude="" nodeid="node160" title="2F_TERRACE" author="" latitude="" datetime="" copyright="" customnodeid="">
-      <mapcoords y_floorplan_percent="23.7903" x_floorplan_percent="62.4194" mapid="FloorPlan03" x="1.06293" y="-0.405121"/>
+      <mapcoords y_floorplan_percent="25.2823" x_floorplan_percent="62.7419" mapid="FloorPlan03" x="1.06842" y="-0.430527"/>
     </userdata>
     <hotspots width="180" height="20" wordwrap="0">
       <label backgroundcolor="0xffffff" borderalpha="1" enabled="0" width="180" borderradius="0" textalpha="1" backgroundalpha="1" height="20" wordwrap="0" border="0" bordercolor="0x000000" background="0" textcolor="0x000000"/>
