@@ -4666,7 +4666,7 @@
               <source>click</source>
               <type>gotourl</type>
               <actionvalue>https://vornone.github.io/MCR_KING/</actionvalue>
-              <actiontransitiontime>64</actiontransitiontime>
+              <actiontransitiontime>7274610</actiontransitiontime>
               <filterexpression>
                 <condition>
                   <logictrigger>hastouch</logictrigger>
@@ -11301,18 +11301,6 @@ font-size: 15px;
         <source>click</source>
         <type>hide</type>
         <actiontarget>close-minimap02</actiontarget>
-        <actiontransitiontime>64</actiontransitiontime>
-      </action>
-      <action>
-        <source>click</source>
-        <type>hide</type>
-        <actiontarget>Rectangle02</actiontarget>
-        <actiontransitiontime>254</actiontransitiontime>
-      </action>
-      <action>
-        <source>click</source>
-        <type>hide</type>
-        <actiontarget>Rectangle 1</actiontarget>
         <actiontransitiontime>64</actiontransitiontime>
       </action>
       <action>
