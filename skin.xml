@@ -11762,7 +11762,7 @@ font-size: 15px;
         <angle>0</angle>
         <scalex>1</scalex>
         <scaley>1</scaley>
-        <visible>1</visible>
+        <visible>0</visible>
         <center>4</center>
         <width>100</width>
         <height>100</height>
